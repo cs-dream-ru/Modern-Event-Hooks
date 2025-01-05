@@ -35,7 +35,7 @@ g_sAttacker[] = "attacker";
 public Plugin myinfo = 
 {
 	name = "[CS:S] Modern Event Hooks", 
-	version = "1.0.8", 
+	version = "1.0.9", 
 	author = "Wend4r", 
 	url = "Discord: Wend4r#0001 | VK: vk.com/wend4r"
 }
