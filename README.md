@@ -1,5 +1,5 @@
 # Описание
-Форк Modern Event Hooks
+Modern Event Hooks - плагин расширяющий ивенты CS:S
 
 # Отличия от оригинала
-- Добавлен параметр 'noscope' в событие player_death
+- Добавлен параметр 'noscope' в событие player_death [ CS:S OB: Работает | CS:S v34: Не проверено ]
