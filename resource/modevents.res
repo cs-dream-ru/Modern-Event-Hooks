@@ -20,7 +20,7 @@
 //   float  : float, 32 bit
 
 // Counter-Strike: Source
-// [CS:S] Modern Event Hooks (version 1.0.7)
+// [CS:S] Modern Event Hooks (version 1.1.0)
 
 "cstrikeevents"
 {
